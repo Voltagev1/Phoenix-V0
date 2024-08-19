@@ -30,8 +30,9 @@ If you clone my repo or use as base bot, dont forget to give credits. Voltage⚡
  **2.DEPLOYMENT PROCESS**
 ### DEPLOY ON PANEL
 IF YOU DON'T HAVE A PANEL ACCOUNT CREATE ONE AND SERVER TO DEPLOY 
-    <br>
-    <a href='https://bot-hosting.net/?aff=1264676029318955030' target="_blank"><img alt='Panel' 
+     <br>
+    <a href='https://bot-hosting.net/?aff=1264676029318955030' target="_blank"><img alt='Panel' src='https://img.shields.io/badge/-Deploy-blue?style=for-the-badge&logo=panel&logoColor=white'/></a>
+
 ### DEPLOYMENT ON TERMUX
 
 atp update
