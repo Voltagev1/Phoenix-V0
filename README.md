@@ -1,19 +1,19 @@
-<h1 align="center"> PHOENIX-V0</h1>
+<h1 align="center"> PHOENIX-V0 🕊</h1>
 <p align="center">  
   
 ***
   
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=1BAFBAFF&center=true&width=910&height=100&lines=THANKS FOR CHOOSING ;PHOENIX-V0;WHATSAPP+BUG+BOT;CREATED+BY+VOLTAGE+LORD;RELEASED+05.08.24" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=1BAFBAFF&center=true&width=910&height=100&lines=THANKS FOR CHOOSING ;PHOENIX-V0;WHATSAPP+BUG+BOT;CREATED+BY+VOLTAGE+LORD;RELEASED+19.08.24" alt="Typing SVG" /></a>
   </p>
 
   <p align="center">  
-  <a href="https://whatsapp.com/channel/0029VaaUfPO8qIzztuf42D04">
+  <a href="https://whatsapp.com/channel/0029ValURVD30LKUWiRSlC47">
     <img alt="wasi" height="300" src="https://telegra.ph/file/d5777ee70206a6841a815.jpg">
     <h1 align="center">Phoenix-V0</h1>
   </a>
 </p>
 <p align="center">
-<a href="https://github.com/VoltageLord"><img title="Author" src="https://img.shields.io/badge/Prexzybooster-black?style=for-the-badge&logo=Github"></a> <a href="https://whatsapp.com/channel/0029VaaUfPO8qIzztuf42D04"><img title="Author" src="https://img.shields.io/badge/CHANNEL-black?style=for-the-badge&logo=whatsapp"></a> <a href="https://wa.me/25349155298855"><img title="Author" src="https://img.shields.io/badge/CHAT US-black?style=for-the-badge&logo=whatsapp"></a>
+<a href="https://github.com/VoltageLord"><img title="Author" src="https://img.shields.io/badge/VoltageLord-blue?style=for-the-badge&logo=Github"></a> <a href="https://whatsapp.com/channel/0029ValURVD30LKUWiRSlC47"><img title="Author" src="https://img.shields.io/badge/CHANNEL-black?style=for-the-badge&logo=whatsapp"></a> <a href="https://wa.me/25349155298855"><img title="Author" src="https://img.shields.io/badge/CHAT US-black?style=for-the-badge&logo=whatsapp"></a>
 
    
    
