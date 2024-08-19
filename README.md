@@ -34,40 +34,9 @@ IF YOU DON'T HAVE A PANEL ACCOUNT CREATE ONE AND SERVER TO DEPLOY
     <a href='https://bot-hosting.net/?aff=1264676029318955030' target="_blank"><img alt='Panel' src='https://img.shields.io/badge/-Deploy-red?style=for-the-badge&logo=panel&logoColor=white'/></a>
 
 ### OR
-### 1. <a href="https://prexzyvillasession.onrender.com/"><img src="https://img.shields.io/badge/PAIR_CODE-green" alt="Clique ici pour avoir le Pair-Code" width="90"></a>
-
-## 2. <a href='https://dashboard.render.com/web/new' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-Deploy on render-black?style=for-the-badge&logo=render&logoColor=white'/>
-## Watch Tutorial videos.
-* [![YOUTUBE](https://img.shields.io/badge/HOW_TO_DEPLOY-red?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@Voltageprotech)
+/@Voltageprotech)
 
 ### DEPLOYMENT ON TERMUX
-
-**Go to your termux and input this commands**
-
-
-
-
-
-cd Phoenix-V0 
-
-yarn install
-   
-npm start
-
-
-If you see any question while upgrading with this options with Y for yes or N for no = Click yes or y
-
-If you see any question while upgrading with this options with Y or n for default, = Click n for Default
-
-
-
- It will ask you for your number type it with country code +
- It will give you a pair code go and link it to your WhatsApp 
- After linking
- Bot Connected ⚡
- Enjoy🤖
-
-### REPORT ISSUES
 
 atp update
    
@@ -99,6 +68,20 @@ git clone https://github.com/VoltageLord/Phoenix-V0
  yarn install
  
  npm start
+
+If you see any question while upgrading with this options with Y for yes or N for no = Click yes or y
+
+If you see any question while upgrading with this options with Y or n for default, = Click n for Default
+
+
+
+ It will ask you for your number type it with country code +
+ It will give you a pair code go and link it to your WhatsApp 
+ After linking
+ Bot Connected ⚡
+ Enjoy🤖
+
+
 
 `Please Phoenix-V0 is for scammers only. Don't use it to harm innocent people`
 
