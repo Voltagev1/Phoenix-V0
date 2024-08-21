@@ -1,3 +1,3 @@
 {
-	"name": "PREXZY Bot Multi Device "
+	"name": "PHOENIX-V0 Multi Device "
 }
