@@ -1,10 +1,10 @@
 //base by DGXeon (Xeon Bot Inc.)
-//YouTube: @Voltageprotech
-//Instagram: null
-//Telegram: t.me/Voltagecrypto
-//GitHub: @VoltageLord
-//WhatsApp: 23491595298855
-//want more free bot scripts? subscribe to my youtube channel: https://youtube.com/@voltageprotech
+//YouTube: @DGXeon
+//Instagram: unicorn_xeon13
+//Telegram: t.me/xeonbotinc
+//GitHub: @DGXeon
+//WhatsApp: +916909137213
+//want more free bot scripts? subscribe to my youtube channel: https://youtube.com/@DGXeon
 
 require('./settings')
 const pino = require('pino')
@@ -77,18 +77,18 @@ const {  state, saveCreds } =await useMultiFileAuthState(`./session`)
          phoneNumber = phoneNumber.replace(/[^0-9]/g, '')
 
          if (!Object.keys(PHONENUMBER_MCC).some(v => phoneNumber.startsWith(v))) {
-            console.log(chalk.bgBlack(chalk.redBright("Start with country code of your WhatsApp Number, Example : +2349159895444")))
+            console.log(chalk.bgBlack(chalk.redBright("Start with country code of your WhatsApp Number, Example : +2349155298855")))
             process.exit(0)
          }
       } else {
-         phoneNumber = await question(chalk.bgBlack(chalk.greenBright(`Please type your WhatsApp number 😍\nFor example: +2349155298855 : `)))
+         phoneNumber = await question(chalk.bgBlack(chalk.greenBright(`Please type your WhatsApp number 🥺\nFor example: +2349155298855 : `)))
          phoneNumber = phoneNumber.replace(/[^0-9]/g, '')
 
          // Ask again when entering the wrong number
          if (!Object.keys(PHONENUMBER_MCC).some(v => phoneNumber.startsWith(v))) {
             console.log(chalk.bgBlack(chalk.redBright("Start with country code of your WhatsApp Number, Example : +2349155298855")))
 
-            phoneNumber = await question(chalk.bgBlack(chalk.greenBright(`Please type your WhatsApp number 😍\nFor example: +2349155298855 : `)))
+            phoneNumber = await question(chalk.bgBlack(chalk.greenBright(`Please type your WhatsApp number 🥺\nFor example: +2349155298855 : `)))
             phoneNumber = phoneNumber.replace(/[^0-9]/g, '')
             rl.close()
          }
@@ -171,13 +171,13 @@ XeonBotInc.ev.on("connection.update",async  (s) => {
         const { connection, lastDisconnect } = s
         if (connection == "open") {
         	console.log(chalk.magenta(` `))
-            console.log(chalk.yellow(`🌿Connected to => ` + JSON.stringify(XeonBotInc.user, null, 2)))
+            console.log(chalk.yellow(`⚡Connected to => ` + JSON.stringify(XeonBotInc.user, null, 2)))
 			await delay(1999)
             console.log(chalk.yellow(`\n\n                  ${chalk.bold.blue(`[ ${botname} ]`)}\n\n`))
             console.log(chalk.cyan(`< ================================================== >`))
-	        console.log(chalk.magenta(`\n${themeemoji} YT CHANNEL: Prexzyvilla`))
-            console.log(chalk.magenta(`${themeemoji} GITHUB: Prexzybooster `))
-            console.log(chalk.magenta(`${themeemoji} INSTAGRAM: @prexzy.ay `))
+	        console.log(chalk.magenta(`\n${themeemoji} YT CHANNEL: Voltagetechpro`))
+            console.log(chalk.magenta(`${themeemoji} GITHUB: VoltageLord `))
+            console.log(chalk.magenta(`${themeemoji} INSTAGRAM: @null `))
             console.log(chalk.magenta(`${themeemoji} WA NUMBER: ${owner}`))
             console.log(chalk.magenta(`${themeemoji} CREDIT: ${wm}\n`))
         }
